@@ -7,33 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0592DB8BA92E4103A357D3C2 /* GothicA1-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3F2FFE816AF421C8A76D528 /* GothicA1-Thin.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-plie_practical.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-plie_practical.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		3A05D9FA2BD04A1098460962 /* GothicA1-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06BD18A356044C5AAB4C521B /* GothicA1-Light.ttf */; };
+		50E14464F11E4F2B9D08AA76 /* GothicA1-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3135724C18C542CD8F90D162 /* GothicA1-Bold.ttf */; };
+		5B5A573E6D608C07CF225123 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		5C4725A7F15A457EAF8F3E96 /* GothicA1-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48D3189607F6464FAAB28131 /* GothicA1-Medium.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AA5EAF6200164FF797A319ED /* GothicA1-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 41BE543C4FAC429180EF0DFE /* GothicA1-Regular.ttf */; };
+		D3EE6CC369A245A89C096F81 /* GothicA1-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A093B49295FE43C48867AF28 /* GothicA1-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		00E356F41AD99517003FC87E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = plie_practical;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06BD18A356044C5AAB4C521B /* GothicA1-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-Light.ttf"; path = "../src/assets/fonts/GothicA1-Light.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* plie_practical.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = plie_practical.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = plie_practical/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = plie_practical/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = plie_practical/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		3135724C18C542CD8F90D162 /* GothicA1-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-Bold.ttf"; path = "../src/assets/fonts/GothicA1-Bold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-plie_practical.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-plie_practical.debug.xcconfig"; path = "Target Support Files/Pods-plie_practical/Pods-plie_practical.debug.xcconfig"; sourceTree = "<group>"; };
+		41BE543C4FAC429180EF0DFE /* GothicA1-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-Regular.ttf"; path = "../src/assets/fonts/GothicA1-Regular.ttf"; sourceTree = "<group>"; };
+		48D3189607F6464FAAB28131 /* GothicA1-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-Medium.ttf"; path = "../src/assets/fonts/GothicA1-Medium.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-plie_practical.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-plie_practical.release.xcconfig"; path = "Target Support Files/Pods-plie_practical/Pods-plie_practical.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-plie_practical.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-plie_practical.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = plie_practical/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = plie_practical/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A093B49295FE43C48867AF28 /* GothicA1-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-SemiBold.ttf"; path = "../src/assets/fonts/GothicA1-SemiBold.ttf"; sourceTree = "<group>"; };
+		E3F2FFE816AF421C8A76D528 /* GothicA1-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "GothicA1-Thin.ttf"; path = "../src/assets/fonts/GothicA1-Thin.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -49,14 +51,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356F01AD99517003FC87E /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				00E356F11AD99517003FC87E /* Info.plist */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		13B07FAE1A68108700A75B9A /* plie_practical */ = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +72,20 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		4DED93E9D6464D5C8DEA83B1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3135724C18C542CD8F90D162 /* GothicA1-Bold.ttf */,
+				06BD18A356044C5AAB4C521B /* GothicA1-Light.ttf */,
+				48D3189607F6464FAAB28131 /* GothicA1-Medium.ttf */,
+				41BE543C4FAC429180EF0DFE /* GothicA1-Regular.ttf */,
+				A093B49295FE43C48867AF28 /* GothicA1-SemiBold.ttf */,
+				E3F2FFE816AF421C8A76D528 /* GothicA1-Thin.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -93,6 +101,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				4DED93E9D6464D5C8DEA83B1 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -172,19 +181,19 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		00E356EC1AD99517003FC87E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		13B07F8E1A680F5B00A75B9A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				5B5A573E6D608C07CF225123 /* PrivacyInfo.xcprivacy in Resources */,
+				50E14464F11E4F2B9D08AA76 /* GothicA1-Bold.ttf in Resources */,
+				3A05D9FA2BD04A1098460962 /* GothicA1-Light.ttf in Resources */,
+				5C4725A7F15A457EAF8F3E96 /* GothicA1-Medium.ttf in Resources */,
+				AA5EAF6200164FF797A319ED /* GothicA1-Regular.ttf in Resources */,
+				D3EE6CC369A245A89C096F81 /* GothicA1-SemiBold.ttf in Resources */,
+				0592DB8BA92E4103A357D3C2 /* GothicA1-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,14 +284,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* plie_practical */;
-			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
@@ -408,7 +409,14 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -473,7 +481,13 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
